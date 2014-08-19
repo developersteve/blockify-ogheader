@@ -1,0 +1,16 @@
+{
+  "name": "blockify-ogheader",
+  "version": "0.1.0",
+  "description": "adds opengraph headers",
+  "keywords": ["opengraph", "headers"],
+  "author": "developersteve",
+  "template": {
+        "locale": "en_US",
+        "type": "article",
+        "title": "Blockify",
+        "description": "Start building your first block with Blockify to start re-using your code across multiple projects to save all important time",
+        "site_name": "Blockify",
+        "image": "http://blockify.co/wp-content/uploads/2014/07/Google+-Avatar.png"
+
+   }
+}
